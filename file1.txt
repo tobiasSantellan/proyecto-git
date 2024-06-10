@@ -1,2 +1,3 @@
 probando linea de comandos 
 cambios en file1
+linea 4 de file 1 
